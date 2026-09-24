@@ -2,6 +2,10 @@
 
 Building things that break, then building them so they don't.
 
+![Deadlock character artwork](./Rem.jpg)
+
+I love Valve's Deadlock!
+
 ```text
 $ whoami
 student · developer · chronic tinkerer
